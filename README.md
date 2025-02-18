@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://raw.githubusercontent.com/Man2bhai/Mantu-bhai/refs/heads/main/8199319_3849223.jpg))
 <h1 align="center">Hi 👋, I'm Mantu bhai</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
